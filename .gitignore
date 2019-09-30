@@ -1,0 +1,6 @@
+node_modules
+tmp
+.env
+.env.test
+package-lock.json
+.nyc_output
